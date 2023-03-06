@@ -1,0 +1,8 @@
+server:
+  port: 8081
+app:
+  topics:
+    load-test-topic: load_test_topic
+logging:
+  level:
+    root: info
